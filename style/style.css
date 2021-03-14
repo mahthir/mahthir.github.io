@@ -717,13 +717,14 @@ section:nth-of-type(3) #gallery .mix .button:hover {
   color: #fff;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(1) .card {
-  background: url("../img/health.JPG") center center/cover;
+  background: url("../img/health-4.jpg") center center/cover;
+  background-size: 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(2) .card {
-  background: url("../img/tea.JPG") center center/cover;
+  background: url("../img/tea-0.jpg.png") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
-  background: url("../img/beyond.JPG") center center/cover;
+  background: url("../img/beyond-4.jpg") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
   background: url("../img/thumb-4.jpg") center center/cover;

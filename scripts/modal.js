@@ -8,8 +8,8 @@ $(document).ready(function() {
         'ChowNow Discover is a platform that lets customers discover new local restaurants and provides business owners with tools to convert first time orders into lifelong diners.',
       link: 'https://eat.chownow.com/'
     },
-    ordering: {
-      title: 'ChowNow Ordering Web',
+    health: {
+      title: 'Health Care',
       tag: 'WHITE-LABEL ONLINE ORDERING SOLUTION.',
       detail:
         'ChowNow is a commission-free online ordering system and food ordering app helping restaurants feed their hungry customers.',
@@ -54,8 +54,8 @@ $(document).ready(function() {
       detail:
         'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.'
     },
-    themall: {
-      title: 'The Mall',
+    tea: {
+      title: 'Tea',
       tag: 'PEER GUIDED SHOPPING.',
       detail:
         'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.'
