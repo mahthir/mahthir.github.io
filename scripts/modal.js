@@ -10,17 +10,17 @@ $(document).ready(function() {
     },
     health: {
       title: 'Health Care',
-      tag: 'WHITE-LABEL ONLINE ORDERING SOLUTION.',
+      tag: 'Online Health Care System.',
       detail:
-        'ChowNow is a commission-free online ordering system and food ordering app helping restaurants feed their hungry customers.',
-      link: 'https://direct.chownow.com/direct/195/locations/260'
+        'Health Care is a  online health maintenance system and people how to learn hear body festinese relax mind with youga manu other way.',
+      link: 'http://mahthir.me/demo/Health/'
     },
-    newrelic: {
+    beyond: {
       title: 'Beyond Blinds',
       tag: 'APPLICATION PERFORMANCE MONITORING.',
       detail:
         'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.newrelic.com'
+      link: 'http://mahthir.me/demo/Byoned'
     },
     roambi: {
       title: 'Roambi.com',
@@ -58,8 +58,10 @@ $(document).ready(function() {
       title: 'Tea',
       tag: 'PEER GUIDED SHOPPING.',
       detail:
-        'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.'
-    }
+        'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.',
+        link: 'http://mahthir.me/demo/Tea/'
+
+      }
   };
 
   $('#gallery .button').on('click', function() {
