@@ -16,7 +16,7 @@ $(document).ready(function() {
       link: 'https://direct.chownow.com/direct/195/locations/260'
     },
     newrelic: {
-      title: 'NewRelic.com',
+      title: 'Beyond Blinds',
       tag: 'APPLICATION PERFORMANCE MONITORING.',
       detail:
         'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
