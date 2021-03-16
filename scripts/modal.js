@@ -10,16 +10,16 @@ $(document).ready(function() {
     },
     health: {
       title: 'Health Care',
-      tag: 'Online Health Care System.',
+      tag: 'Balance Body & Mind',
       detail:
         'Health Care is a  online health maintenance system and people how to learn hear body festinese relax mind with youga manu other way.',
       link: 'http://mahthir.me/demo/Health/'
     },
     beyond: {
       title: 'Beyond Blinds',
-      tag: 'APPLICATION PERFORMANCE MONITORING.',
+      tag: 'Furniture & interior design.',
       detail:
-        'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
+        'Carefully-chosen raw material, environment-friendly business practice and customer-centric approach is what made Beyond Blinds Furniture & interior design a beloved brand at home and abroad. ',
       link: 'http://mahthir.me/demo/Byoned'
     },
     roambi: {
@@ -29,11 +29,11 @@ $(document).ready(function() {
         'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
       link: 'http://www.roambi.com'
     },
-    walker: {
-      title: 'WalkerTracker',
-      tag: 'PERFORMANCE METRICS.',
+    content: {
+      title: 'Content Upload',
+      tag: 'Desinger Upload Content here.',
       detail:
-        'Walker Tracker offers goal management, fitness tracking, and team competitions to companies for internal use. A Ruby on Rails and Javascript companion site for the Walker Tracker App. Features visual metrics and gamified progression system.'
+        'Get talented designers competing on your logo design contest. Start a logo design contest upload the vedio audio and images file  designs'
     },
     powur: {
       title: 'Powur.com',
@@ -55,10 +55,10 @@ $(document).ready(function() {
         'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.'
     },
     tea: {
-      title: 'Tea',
-      tag: 'PEER GUIDED SHOPPING.',
+      title: 'ROBINSON TEA',
+      tag: 'Each tea is carefully blended.',
       detail:
-        'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.',
+        'Each tea purchase comes with orgnically and ethically grow loose theleaf tea, carefully blended to create the perfect cup.',
         link: 'http://mahthir.me/demo/Tea/'
 
       }
