@@ -22,12 +22,12 @@ $(document).ready(function() {
         'Carefully-chosen raw material, environment-friendly business practice and customer-centric approach is what made Beyond Blinds Furniture & interior design a beloved brand at home and abroad. ',
       link: 'http://mahthir.me/demo/Byoned'
     },
-    roambi: {
-      title: 'Roambi.com',
-      tag: 'BUSINESS ANALYTICS.',
+    esite: {
+      title: 'E-Commerce Website',
+      tag: 'Online Stor.',
       detail:
-        'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.roambi.com'
+        'online marketplace to serve customers with the best quality product .Online shop is selling Variety of Consumer electronics, Home appliance, Kitchen appliance, Office Stationary, latest smart phones, Camera, Computing & accessories and fashionable products like clothes, cosmetics, shoes, makeup, Grocery items and more',
+      
     },
     content: {
       title: 'Content Upload',
