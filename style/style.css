@@ -721,7 +721,7 @@ section:nth-of-type(3) #gallery .mix:nth-child(1) .card {
   background-size: 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(2) .card {
-  background: url("../img/tea-0.jpg.png") center center/cover;
+  background: url("../img/tea-0.jpg") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
   background: url("../img/beyond-4.jpg") center center/cover;
@@ -795,7 +795,7 @@ section:nth-of-type(4) .blog-wrap {
   padding: 0 2px;
   width: 100%;
 }
-section:nth-of-type(4) .blog-wrap #thumb-1 {
+/*section:nth-of-type(4) .blog-wrap #thumb-1 {
   background: url("../img/newground20.png") center center/cover;
 }
 section:nth-of-type(4) .blog-wrap #thumb-2 {
@@ -806,7 +806,7 @@ section:nth-of-type(4) .blog-wrap #thumb-3 {
 }
 section:nth-of-type(4) .blog-wrap #thumb-4 {
   background: url("../img/mahthirrr1.jpg") center center/cover;
-}
+}*/
 section:nth-of-type(4) .blog-wrap .fade-wrap {
   transition: opacity 0.3s;
 }

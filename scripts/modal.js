@@ -60,7 +60,6 @@ $(document).ready(function() {
       detail:
         'Each tea purchase comes with orgnically and ethically grow loose theleaf tea, carefully blended to create the perfect cup.',
         link: 'http://mahthir.me/demo/Tea/'
-
       }
   };
 
