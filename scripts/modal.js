@@ -27,7 +27,7 @@ $(document).ready(function() {
       tag: 'Online Stor.',
       detail:
         'online marketplace to serve customers with the best quality product .Online shop is selling Variety of Consumer electronics, Home appliance, Kitchen appliance, Office Stationary, latest smart phones, Camera, Computing & accessories and fashionable products like clothes, cosmetics, shoes, makeup, Grocery items and more',
-      link: 'https://github.com/mahthir/Chaldal'
+      link: 'http://mahthir.me/Chaldal/'
     },
     mail: {
       title: 'Mali Project',
