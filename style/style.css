@@ -730,7 +730,7 @@ section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
   background: url("../img/esite11.jpg.png") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
-  background: url("../img/content-0.jpg") center center/cover;
+  background: url("../img/mail-0.jpg") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
   background: url("../img/thumb-6.jpg") center center/cover;
@@ -792,10 +792,13 @@ section:nth-of-type(4) .gradient {
 section:nth-of-type(4) .blog-wrap {
   cursor: pointer;
   margin: 0 0 50px 0;
+
+
+  
   padding: 0 2px;
   width: 100%;
 }
-/*section:nth-of-type(4) .blog-wrap #thumb-1 {
+section:nth-of-type(4) .blog-wrap #thumb-1 {
   background: url("../img/newground20.png") center center/cover;
 }
 section:nth-of-type(4) .blog-wrap #thumb-2 {
@@ -806,7 +809,7 @@ section:nth-of-type(4) .blog-wrap #thumb-3 {
 }
 section:nth-of-type(4) .blog-wrap #thumb-4 {
   background: url("../img/mahthirrr1.jpg") center center/cover;
-}*/
+}
 section:nth-of-type(4) .blog-wrap .fade-wrap {
   transition: opacity 0.3s;
 }

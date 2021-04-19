@@ -27,13 +27,14 @@ $(document).ready(function() {
       tag: 'Online Stor.',
       detail:
         'online marketplace to serve customers with the best quality product .Online shop is selling Variety of Consumer electronics, Home appliance, Kitchen appliance, Office Stationary, latest smart phones, Camera, Computing & accessories and fashionable products like clothes, cosmetics, shoes, makeup, Grocery items and more',
-      
+      link: 'https://github.com/mahthir/Chaldal'
     },
-    content: {
-      title: 'Content Upload',
-      tag: 'Desinger Upload Content here.',
+    mail: {
+      title: 'Mali Project',
+      tag: 'Mail Project demo project.',
       detail:
-        'Get talented designers competing on your logo design contest. Start a logo design contest upload the vedio audio and images file  designs'
+        'Get  designers Established, Green Peak Holdings Ltd. (GPHL) is a new generation Real Estate Developer in Bangladesh. ',
+        link: 'http://mahthir.me/demo/Mail%20Project/'
     },
     powur: {
       title: 'Powur.com',
@@ -43,10 +44,11 @@ $(document).ready(function() {
       link: 'http://www.powur.com/with/42'
     },
     mystand: {
-      title: 'MyStand',
+      title: 'Mail Project',
       tag: 'CROWD-FUNDED CHARITY.',
       detail:
-        'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.'
+        'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.',
+        link: 'http://mahthir.me/demo/Mail%20Project/'
     },
     never: {
       title: 'NeverSurrender',
@@ -60,6 +62,7 @@ $(document).ready(function() {
       detail:
         'Each tea purchase comes with orgnically and ethically grow loose theleaf tea, carefully blended to create the perfect cup.',
         link: 'http://mahthir.me/demo/Tea/'
+
       }
   };
 
